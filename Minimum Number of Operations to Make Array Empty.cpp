@@ -14,4 +14,4 @@ int minOperations(vector<int>& nums) {
             }
         }
         return ans; 
-    }
+}
