@@ -12,4 +12,4 @@ int numberOfBeams(vector<string>& bank) {
             t=num;
         }
         return ans;
-    }
+}
