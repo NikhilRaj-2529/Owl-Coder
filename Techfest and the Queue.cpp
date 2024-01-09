@@ -1,3 +1,5 @@
+//GFG
+//Seive Algo
 vector<long long>s;
   void seive(int n){
       for(int i=0;i<=n;i++){
