@@ -1,3 +1,4 @@
+//GFG
 int TotalWays(int n)
 {
     // Code here
