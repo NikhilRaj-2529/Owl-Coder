@@ -1,3 +1,4 @@
+//GFG
 Node *n=NULL,*p=NULL,*t1=node1,*t2=node2,*ans=NULL,*temp=NULL;
 if(t1==NULL && t2==NULL) return NULL;
 else if(t1==NULL) ans=t2;
